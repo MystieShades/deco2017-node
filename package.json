@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "prestart": "parcel build ./public/index.html",
-    "dev": "parcel serve ./public/index.html"
-    
+    "dev": "parcel serve ./public/index.html" 
   },
   "author": "Ashley",
   "dependencies": {
